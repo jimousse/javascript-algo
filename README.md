@@ -1,2 +1,2 @@
-# javascript-algo
-Some data structures written in JS.
+# Data structures
+Some useful data structures written in JS.
